@@ -1,4 +1,4 @@
-# C++ Programming Course Outline
+# C++ Verse
 
 ## Chapter 1: Setting up the tools
 - Tools
