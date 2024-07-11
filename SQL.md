@@ -138,3 +138,5 @@
 - Microsoft Certified: Azure Data Fundamentals
 - Oracle Database SQL Certified Associate
 - Google Professional Data Engineer
+
+For an interactive version of this roadmap, visit [roadmap.sh](https://roadmap.sh/sql).
